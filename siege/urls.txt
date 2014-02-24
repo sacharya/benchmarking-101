@@ -1,0 +1,3 @@
+https://www.google.com/#q=openstack
+https://www.google.com/#q=aws
+https://www.google.com/#q=vmware
